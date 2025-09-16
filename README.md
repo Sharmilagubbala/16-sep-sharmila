@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Web Application</title>
+  <title> My Web Application</title>
 </head>
 <body>
   <h1 style=color:"black">Feedback Form</h1>
