@@ -4,7 +4,7 @@
   <title> Web Application</title>
 </head>
 <body>
-  <h1>Feedback Form</h1>
+  <h1 style=color:"black">Feedback Form</h1>
   <form>
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name"><br><br>
